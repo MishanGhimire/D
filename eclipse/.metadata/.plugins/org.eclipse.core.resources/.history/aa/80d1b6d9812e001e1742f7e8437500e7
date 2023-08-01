@@ -1,0 +1,18 @@
+package com.stlawrence;
+
+import java.util.Scanner;
+
+public class Rect {
+	public static void main(String[] args) {
+		Rectangle rect = new Rectangle();
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print(n("Enter the Height:");
+		int n1 = input.nextInt();
+		
+		System.out.print(n("Enter the Height:");
+		int n2 = input.nextInt();
+		
+		rect.Area(n1,n2);
+	}
+}

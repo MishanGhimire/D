@@ -1,0 +1,6 @@
+package com.stlawrence;
+
+public class Dog {
+	String name;
+	String breed;
+}

@@ -1,0 +1,13 @@
+package com.stlawrence;
+
+public class Dog {
+	String name;
+	String breed;
+	
+	public bark() {
+		System.out.println("Constructor....");
+	}
+	public void show() {
+		System.out.println(name + ":" + breed);
+	}
+}

@@ -1,0 +1,10 @@
+package com.stlawrence;
+
+public class Personmain {
+	public static void main(String[] args) {
+		
+		Person P = new Person("Suyog",8);
+		
+		
+	}
+}

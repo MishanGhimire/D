@@ -1,0 +1,11 @@
+package com.stlawrence;
+
+public class Mainclass {
+	public static void main(String[] args) {
+		Car car = new Car(); 
+		car.drive();
+		car.cc = 10000;
+		car.isRegistered = true;
+		car.model = "Model X";
+	}
+}

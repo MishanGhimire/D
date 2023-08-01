@@ -1,0 +1,9 @@
+package com.stlawrence;
+
+public class Personmain {
+	public static void main(String[] args) {
+
+		Person p = new Person("Suyog", 8);
+		p.speak();
+	}
+}

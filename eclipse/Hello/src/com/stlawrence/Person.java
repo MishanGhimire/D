@@ -1,0 +1,15 @@
+package com.stlawrence;
+
+public class Person {
+	int age;
+	String name;
+
+	public Person(String n, int age) {
+		age = 18;
+		name = "Suyog";
+	}
+
+	void speak() {
+		System.out.println("In Constructor");
+	}
+}

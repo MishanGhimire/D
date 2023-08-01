@@ -1,0 +1,21 @@
+package com.stlawrence;
+
+public class Rectangle {
+    public static void main(String[] args) {
+        Rect rect = new Rect();
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Enter the Height:");
+		int n1 = input.nextInt();
+		
+		System.out.println("Enter the Height:");
+		int n2 = input.nextInt();
+		
+		int Area = rect.Area(n1,n2);
+        int Perimeter = rect.Perimeter(n1,n2);
+
+        System.out.println(Area);
+        System.out.println(Perimeter);
+        rect.Test();
+    }   
+}

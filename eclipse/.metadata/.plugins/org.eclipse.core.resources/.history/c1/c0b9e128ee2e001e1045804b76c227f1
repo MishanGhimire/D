@@ -1,0 +1,14 @@
+package com.stlawrence;
+
+public class Dogg {
+	public static void main(String[] args) {
+		Dog dog = new Dog();
+		
+		dog.name = "Alex";
+		dog.breed = "German Shephard";
+		
+		Dog dog1 = new Dog();
+		dog1.name = "Drama Queen";
+		dog1.breed = "Husky";
+	}
+}

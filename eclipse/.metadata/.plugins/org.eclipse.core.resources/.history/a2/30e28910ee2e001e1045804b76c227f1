@@ -1,0 +1,10 @@
+package com.stlawrence;
+
+public class Dog {
+	String name;
+	String breed;
+	
+	public void show() {
+		System.out.println(name + : breed);
+	}
+}

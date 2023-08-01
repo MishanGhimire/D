@@ -1,0 +1,14 @@
+package com.stlawrence;
+
+public class CalcMain {
+	public static void main(String[] args) {
+		
+		Calc calc = new Calc();
+		
+		calc.add(5,8);
+		calc.sub(8,5);
+		
+		System.out.println(calc.add());
+		System.out.println(calc.sub());
+	}
+}
