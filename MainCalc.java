@@ -1,4 +1,4 @@
-package calculator;
+import calculator.Calc;
 
 public class MainCalc {
     public static void main(String[] args) {
