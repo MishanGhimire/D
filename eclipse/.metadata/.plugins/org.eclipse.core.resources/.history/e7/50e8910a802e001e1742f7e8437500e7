@@ -1,9 +1,0 @@
-package com.stlawrence;
-
-class Person {
-	String name;
-	int age;
-	public String speak() {
-		System.out.println("Hello World");
-	}
-}

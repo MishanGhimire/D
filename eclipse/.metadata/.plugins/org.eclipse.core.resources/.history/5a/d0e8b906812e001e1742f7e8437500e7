@@ -1,6 +1,0 @@
-package com.stlawrence;
-
-class Rectangle {
-	int width;
-	int height;
-}
