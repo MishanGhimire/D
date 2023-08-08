@@ -8,5 +8,6 @@ public class MainCalc {
         int r3 = calc.multi(8,9);
 
         System.out.println(r1 + " " + r2 + " "+ r3);
+        //
     }
 }
