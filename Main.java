@@ -7,6 +7,6 @@ public class Main {
 
         calc.show();
         calc.add(8,9);
-        //
+        //ok
     }
 }
